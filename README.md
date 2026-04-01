@@ -51,16 +51,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShyriaievMykola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyriaievMykola&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
+<div align="left">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShyriaievMykola&theme=tokyonight&hide_border=true)
 
