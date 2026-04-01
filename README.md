@@ -15,7 +15,7 @@
 - 🔧 Passionate about **high availability & high concurrency systems** — building backends that don't flinch under load
 - 🌱 Currently deepening my knowledge of **ASP.NET Core**, **Entity Framework**, and **distributed systems**
 - ⚡ I believe good backend code is like good plumbing — you only notice it when it's bad
-- 🎯 Goal: Build reliable, scalable, and maintainable software
+
 
 ---
 
@@ -42,7 +42,16 @@
 
 ---
 
-<div align="left">
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShyriaievMykola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyriaievMykola&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShyriaievMykola&theme=tokyonight&hide_border=true)
 
@@ -59,7 +68,7 @@ var learning = new List<string>
     "Microservices with .NET",
     "Message queues (RabbitMQ / Kafka)",
     "CI/CD pipelines",
-    "System Design"
+    "System Design fundamentals"
 };
 
 foreach (var topic in learning)
@@ -78,9 +87,17 @@ foreach (var topic in learning)
 </div>
 
 ---
- 
+
 <div align="center">
- 
-![](https://img.shields.io/badge/%20-282828-282828?style=flat-square)![](https://img.shields.io/badge/%20-3c3836-3c3836?style=flat-square)![](https://img.shields.io/badge/%20-504945-504945?style=flat-square)![](https://img.shields.io/badge/%20-665c54-665c54?style=flat-square)![](https://img.shields.io/badge/%20-7c6f64-7c6f64?style=flat-square)![](https://img.shields.io/badge/%20-cc241d-cc241d?style=flat-square)![](https://img.shields.io/badge/%20-98971a-98971a?style=flat-square)![](https://img.shields.io/badge/%20-d79921-d79921?style=flat-square)![](https://img.shields.io/badge/%20-458588-458588?style=flat-square)![](https://img.shields.io/badge/%20-b16286-b16286?style=flat-square)![](https://img.shields.io/badge/%20-689d6a-689d6a?style=flat-square)![](https://img.shields.io/badge/%20-d65d0e-d65d0e?style=flat-square)![](https://img.shields.io/badge/%20-fb4934-fb4934?style=flat-square)![](https://img.shields.io/badge/%20-b8bb26-b8bb26?style=flat-square)![](https://img.shields.io/badge/%20-fabd2f-fabd2f?style=flat-square)![](https://img.shields.io/badge/%20-83a598-83a598?style=flat-square)![](https://img.shields.io/badge/%20-d3869b-d3869b?style=flat-square)![](https://img.shields.io/badge/%20-8ec07c-8ec07c?style=flat-square)![](https://img.shields.io/badge/%20-fe8019-fe8019?style=flat-square)![](https://img.shields.io/badge/%20-ebdbb2-ebdbb2?style=flat-square)
- 
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ShyriaievMykola&color=512BD4&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://img.shields.io/badge/%20-8ec07c-8ec07c?style=flat-square)![](https://img.shields.io/badge/%20-458588-458588?style=flat-square)![](https://img.shields.io/badge/%20-d79921-d79921?style=flat-square)![](https://img.shields.io/badge/%20-cc241d-cc241d?style=flat-square)![](https://img.shields.io/badge/%20-3c3836-3c3836?style=flat-square)
+
 </div>
