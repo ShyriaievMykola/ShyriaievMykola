@@ -42,16 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShyriaievMykola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyriaievMykola&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
+<div align="left">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShyriaievMykola&theme=tokyonight&hide_border=true)
 
@@ -83,18 +74,7 @@ foreach (var topic in learning)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ShyriaievMykola-181717?style=for-the-badge&logo=github)](https://github.com/ShyriaievMykola)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
-<div align="center">
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=ShyriaievMykola&color=512BD4&style=flat-square&label=Profile+Views)
-
-</div>
-
----
 
 <div align="center">
 
