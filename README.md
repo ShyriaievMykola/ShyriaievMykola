@@ -79,9 +79,8 @@ foreach (var topic in learning)
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<div align="left">
     
-![Visitor Count](https://komarev.com/ghpvc/?username=ShyriaievMykola&color=512BD4&style=flat-square&label=Profile+Views)
 [![GitHub](https://img.shields.io/badge/GitHub-ShyriaievMykola-181717?style=for-the-badge&logo=github)](https://github.com/ShyriaievMykola)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
@@ -92,3 +91,5 @@ foreach (var topic in learning)
 ![](https://img.shields.io/badge/-8ec07c-8ec07c?style=flat-square)![](https://img.shields.io/badge/-458588-458588?style=flat-square)![](https://img.shields.io/badge/-d79921-d79921?style=flat-square)![](https://img.shields.io/badge/-cc241d-cc241d?style=flat-square)![](https://img.shields.io/badge/-3c3836-3c3836?style=flat-square)
 
 </div>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ShyriaievMykola&color=512BD4&style=flat-square&label=Profile+Views)
