@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hey, I'm Mykola 👋
-**Backend Developer in progress** · Computer Science Student · .NET Enthusiast
+**Backend Developer in progress** · Software Engineering Student · .NET Enthusiast
 
 *Building things that run quietly in the background so the frontend can shine.*
 
