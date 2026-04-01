@@ -80,23 +80,12 @@ foreach (var topic in learning)
 ## 🤝 Let's Connect
 
 <div align="center">
-
+    
+![Visitor Count](https://komarev.com/ghpvc/?username=ShyriaievMykola&color=512BD4&style=flat-square&label=Profile+Views)
 [![GitHub](https://img.shields.io/badge/GitHub-ShyriaievMykola-181717?style=for-the-badge&logo=github)](https://github.com/ShyriaievMykola)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
 </div>
-
----
-
-<div align="center">
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ShyriaievMykola&color=512BD4&style=flat-square&label=Profile+Views)
-
-</div>
-
----
 
 <div align="center">
 
