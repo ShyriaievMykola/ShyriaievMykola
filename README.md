@@ -42,7 +42,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShyriaievMykola&theme=tokyonight&hide_border=true)
 
@@ -70,14 +70,14 @@ foreach (var topic in learning)
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ShyriaievMykola-181717?style=for-the-badge&logo=github)](https://github.com/ShyriaievMykola)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
 </div>
 
-<div align="center">
+<div align="left">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ShyriaievMykola&color=512BD4&style=flat-square&label=Profile+Views)
 
