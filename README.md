@@ -1,5 +1,14 @@
 <div align="center">
 
+```
+███████╗██╗  ██╗██╗   ██╗██████╗ ██╗ █████╗ ███████╗██╗   ██╗
+██╔════╝██║  ██║╚██╗ ██╔╝██╔══██╗██║██╔══██╗██╔════╝██║   ██║
+███████╗███████║ ╚████╔╝ ██████╔╝██║███████║█████╗  ██║   ██║
+╚════██║██╔══██║  ╚██╔╝  ██╔══██╗██║██╔══██║██╔══╝  ╚██╗ ██╔╝
+███████║██║  ██║   ██║   ██║  ██║██║██║  ██║███████╗ ╚████╔╝ 
+╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝  ╚═══╝ 
+```
+
 ### Hey, I'm Mykola 👋
 **Backend Developer in progress** · Computer Science Student · .NET Enthusiast
 
@@ -79,15 +88,27 @@ foreach (var topic in learning)
 
 ## 🤝 Let's Connect
 
-<div align="left">
-    
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-ShyriaievMykola-181717?style=for-the-badge&logo=github)](https://github.com/ShyriaievMykola)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
 </div>
 
+---
+
 <div align="center">
- 
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ShyriaievMykola&color=512BD4&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+
 <table width="100%" style="border-collapse:collapse;"><tr>
 <td width="20%" bgcolor="#8ec07c" height="12"></td>
 <td width="20%" bgcolor="#458588" height="12"></td>
@@ -95,7 +116,5 @@ foreach (var topic in learning)
 <td width="20%" bgcolor="#cc241d" height="12"></td>
 <td width="20%" bgcolor="#3c3836" height="12"></td>
 </tr></table>
- 
-</div>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ShyriaievMykola&color=512BD4&style=flat-square&label=Profile+Views)
+</div>
