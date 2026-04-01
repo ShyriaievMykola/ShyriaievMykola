@@ -53,7 +53,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ShyriaevMykola&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ShyriaievMykola&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -81,7 +81,7 @@ foreach (var topic in learning)
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ShyriaevMykola-181717?style=for-the-badge&logo=github)](https://github.com/ShyriaevMykola)
+[![GitHub](https://img.shields.io/badge/GitHub-ShyriaievMykola-181717?style=for-the-badge&logo=github)](https://github.com/ShyriaievMykola)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
