@@ -42,15 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShyriaievMykola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyriaievMykola&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShyriaievMykola&theme=tokyonight&hide_border=true)
@@ -86,17 +77,11 @@ foreach (var topic in learning)
 
 </div>
 
----
-
 <div align="center">
-
-*"First, solve the problem. Then, write the code."* — John Johnson
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ShyriaievMykola&color=512BD4&style=flat-square&label=Profile+Views)
 
 </div>
-
----
 
 <div align="center">
 
